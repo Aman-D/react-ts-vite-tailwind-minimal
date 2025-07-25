@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <div className="bg-green-500">
-      <h1>Code with Otri</h1>
-    </div>
-  );
+  return <p>Minimal React + Tailwind CSS + Vite</p>;
 }
 
 export default App;
